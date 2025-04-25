@@ -26,13 +26,11 @@ Sou Engenheiro de Controle e Automação formado pela UNIFEI (Universidade Feder
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ### Frameworks
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-
-
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateuspa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateuspa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-#### Atualizado em 25-04-2025 12:19 (BRT)
+#### Atualizado em 25-04-2025 12:35 (BRT)
