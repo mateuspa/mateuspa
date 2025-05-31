@@ -1,5 +1,5 @@
 ## Mateus Prince
-Sou Engenheiro de Controle e Automação formado pela UNIFEI (Universidade Federal de Itajubá) e possuo pós-graduação em Gestão de Marketing e Estratégias de Mercado pela FDC (Fundação Dom Cabral). Atualmente estou me graduando em Desenvolvimento de Software Multiplataforma (DSM) na FATEC Indaiatuba-SP, com o objetivo de integrar minhas habilidades técnicas e de gestão para desenvolver soluções inovadoras no mercado em Automação e Data Science.
+Sou Engenheiro de Controle e Automação formado pela UNIFEI (Universidade Federal de Itajubá) e pós-graduado em Gestão de Marketing e Estratégias de Mercado pela FDC (Fundação Dom Cabral). Atualmente, curso Desenvolvimento de Software Multiplataforma (DSM) na FATEC de Indaiatuba - SP, com o objetivo de aprimorar minhas habilidades técnicas e de gestão para desenvolver soluções inovadoras em Automação, Inteligência Artificial e Data Science.
 
 ### Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateus.prince@gmail.com)
@@ -33,4 +33,4 @@ Sou Engenheiro de Controle e Automação formado pela UNIFEI (Universidade Feder
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateuspa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-#### Atualizado em 25-04-2025 12:35 (BRT)
+#### Atualizado em 31-05-2025 18:39 (BRT)
